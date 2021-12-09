@@ -8,8 +8,8 @@
 
 /******************************************************/
     // APIキーの設定
-    var APPLICATION_KEY ="5f5fd0510c7300901b6838c58c3f42558078d59ab6e8988150b97faf2a34ac52";
-    var CLIENT_KEY ="8ca863a985cbb93fd7f36ab037acc6d08abb8b9a2dc9650f81fa7b6374c5d06a";
+    var APPLICATION_KEY ="";
+    var CLIENT_KEY ="";
 /******************************************************/
 
 // mBaaSの初期化
